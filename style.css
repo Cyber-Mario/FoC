@@ -8,7 +8,7 @@ body {
 
 /* Style the header */
 header {
-  background-color: #0AAC00;
+  background-color: #6c757d;
   padding: 30px;
   text-align: center;
   font-size: 35px;
@@ -21,7 +21,7 @@ nav {
   width: 15%;
   /*height: 300px;  only for demonstration, should be removed */
   background: #FFFFFF;
-  padding: 20px;
+ padding: 20px;
 }
 
 /* Style the list inside the menu */
@@ -34,7 +34,7 @@ article {
   float: left;
   padding: 20px;
   width: 70%;
-  background-color: #FFFFFF;
+  background-color: #CCCCCC;
   /* height: 300px;  only for demonstration, should be removed */
 }
 
@@ -47,7 +47,7 @@ section:after {
 
 /* Style the footer */
 footer {
-  background-color: #777;
+  background-color: #6c757d;
   padding: 10px;
   text-align: center;
   color: white;
@@ -69,7 +69,7 @@ footer {
   float: left;
   width: 50%;
   padding: 10px;
-  height: 300px; /* Should be removed. Only for demonstration */
+
 }
 
 /* Clear floats after the columns */
